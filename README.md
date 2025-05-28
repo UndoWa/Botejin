@@ -22,7 +22,7 @@ Unityの基本的な操作、仕様の学習およびC#の基礎の習得
 向きによって発するセリフが違うことを用いてタスクをこなす。
 ## 動作
 w,a,s,d : 移動  
-s : セリフの発言
+space : セリフの発言
 ## 使用ライブラリ
 System.Collections  
 System.Collections.Generic  
